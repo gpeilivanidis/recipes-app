@@ -1,5 +1,5 @@
 # recipes-app
-Recipes website. Backend finished. Frontend coming.
+Recipes website. User register/login, posts crud. Backend finished. Frontend coming.
 
 ## Usage
 
